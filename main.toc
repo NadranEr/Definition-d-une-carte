@@ -1,4 +1,5 @@
 \babel@toc {french}{}\relax 
 \contentsline {section}{Prologue}{2}{section*.2}%
 \contentsline {section}{\numberline {1}Le problème}{3}{section.1}%
-\contentsline {section}{\numberline {2}Métrique locale contre métrique globale}{5}{section.2}%
+\contentsline {section}{\numberline {2}Métrique locale, métrique globale}{5}{section.2}%
+\contentsline {section}{\numberline {3}Le message et sa tension}{7}{section.3}%

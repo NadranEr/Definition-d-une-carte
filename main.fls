@@ -284,6 +284,8 @@ INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.s
 INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
 INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
 INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
 INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
@@ -395,8 +397,6 @@ INPUT .\Sections\02_metrique.tex
 INPUT .\Sections\02_metrique.tex
 INPUT .\Sections\02_metrique.tex
 INPUT Sections\02_metrique.tex
-INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
-INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
 INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr5.tfm
 INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi5.tfm
 INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy5.tfm
@@ -405,6 +405,7 @@ INPUT .\Sections\03_message.tex
 INPUT .\Sections\03_message.tex
 INPUT .\Sections\03_message.tex
 INPUT Sections\03_message.tex
+INPUT C:\Users\adrma\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
 INPUT .\Sections\04_lecteur.tex
 INPUT .\Sections\04_lecteur.tex
 INPUT .\Sections\04_lecteur.tex

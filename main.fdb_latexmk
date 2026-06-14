@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1780176990.98158 "main.bcf" "main.bbl" "main" 1780177008.91104 0
+["biber main"] 1781464053.02278 "main.bcf" "main.bbl" "main" 1781464059.46458 0
   "bibliography.bib" 1780167435 4125 f9b9efe6906d144238e852f8fed5b55a ""
-  "main.bcf" 1780177008 109000 101c603579cc4f813df42d8685f39e64 "pdflatex"
+  "main.bcf" 1781464059 109128 d23063fc8c3d593bca2baf83fe41da93 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1780177006.91412 "c:/Users/adrma/Desktop/Projets/Definition-d-une-carte/main.tex" "main.pdf" "main" 1780177008.91187 0
+["pdflatex"] 1781464057.43354 "c:/Users/adrma/Desktop/Projets/Definition-d-une-carte/main.tex" "main.pdf" "main" 1781464059.4654 0
   "C:/Users/adrma/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1780175433 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/adrma/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1780172017 13333487 47750da971ab5bb95d613ea9750d229b ""
   "C:/Users/adrma/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -211,20 +211,20 @@
   "Figures/bibliometric_map.png" 1780167435 280858 f67b2f38980e385965fe862d25a888b7 ""
   "Sections/00_prologue.tex" 1780176957 7245 fb629019975028e1696c759d78a3b75e ""
   "Sections/01_probleme.tex" 1780176929 6301 01a59e51f8ff572d445378b2b3b1771f ""
-  "Sections/02_metrique.tex" 1780172266 7858 2d262c4c772666b981e7d652d4717bd8 ""
-  "Sections/03_message.tex" 1780167358 42 8883391f7c549697f8afaf983d536313 ""
+  "Sections/02_metrique.tex" 1781456223 7641 5d0c791b4ada321ce20d295b743dc0d2 ""
+  "Sections/03_message.tex" 1781464049 4613 5ae5076d6fb46190540de16438553dea ""
   "Sections/04_lecteur.tex" 1780167358 45 128964357eca6bb78c89d88e53b1f557 ""
   "Sections/05_synthese.tex" 1780167358 42 2fcb7994352c93be067ed61ca9dfad4c ""
   "Sections/06_tests.tex" 1780167358 44 0cbd2784aac2d45e38cbbe1812154229 ""
   "Sections/07_peer_review.tex" 1780167358 42 2fcb7994352c93be067ed61ca9dfad4c ""
   "Sections/08_conclusion.tex" 1780167358 42 bac14c459364747c660d19c70b994f66 ""
-  "c:/Users/adrma/Desktop/Projets/Definition-d-une-carte/main.tex" 1780176988 2487 48918c98f48a88a2d22e5685339d180b ""
-  "main.aux" 1780177008 4024 98ee1cf21d9039a8a24c0a93700a4865 "pdflatex"
-  "main.bbl" 1780177002 9041 ad4eacbe20ab9b3c0beb9a5ca74caa9b "biber main"
-  "main.out" 1780177008 444 d596ea3cc78473baba162281541ebffb "pdflatex"
-  "main.run.xml" 1780177008 2312 e7f8c828a42bd45fa7da461995bebf54 "pdflatex"
-  "main.tex" 1780176988 2487 48918c98f48a88a2d22e5685339d180b ""
-  "main.toc" 1780177008 244 5c334f1ad9b8ba3e918649db84ec3486 "pdflatex"
+  "c:/Users/adrma/Desktop/Projets/Definition-d-une-carte/main.tex" 1781463305 2510 ed8dd41debd213bd9920bb4a890225d5 ""
+  "main.aux" 1781464059 4305 0b2b25024a1a0e10bd39144c08d951cd "pdflatex"
+  "main.bbl" 1781464055 9041 ad4eacbe20ab9b3c0beb9a5ca74caa9b "biber main"
+  "main.out" 1781464059 586 db3e9b451b00185953c5c8c4323fb264 "pdflatex"
+  "main.run.xml" 1781464059 2312 e7f8c828a42bd45fa7da461995bebf54 "pdflatex"
+  "main.tex" 1781463305 2510 ed8dd41debd213bd9920bb4a890225d5 ""
+  "main.toc" 1781464059 318 8cedd556eacf69578e98c9f16c13a610 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
